@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#fff">
+    <TextView
+        android:gravity="center"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/index_left"
+        android:drawableRight="@drawable/index_right"
+        android:drawablePadding="10dp"
+        android:textSize="16sp"
+        android:text="名厨直播"
+        android:textColor="#000"/>
+
+</LinearLayout>

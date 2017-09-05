@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="chiyidun">
+    <item>减脂蔬菜沙拉</item>
+    <item>红烧茄子</item>
+    <item>炸茄子</item>
+    <item>鱼香茄子</item>
+    <item>肉末茄子</item>
+    </string-array>
+</resources>
